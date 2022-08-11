@@ -8,6 +8,4 @@
 		  driver.get("http://demo.actitime.com/login.do");
 		  
 		  
-		  String webdriver=driver.getPageSource();
-		  System.out.println( webdriver);
-      driver.quit();
+		  
